@@ -46,7 +46,9 @@ Workshop schedule is as follows every Thursday:
 
 ### *Useful links*
 - [MMID Bioinformatics Workshop Website](https://mmid-bioinformatics-workshop.github.io)
+
 - [GitHub Repositories](https://github.com/mmid-bioinformatics-workshop)
+
 - [YouTube](https://www.youtube.com/@mmidbioinformaticsworkshop)
 
 
@@ -71,19 +73,18 @@ If you would like to be part of our slack channel, please send an email to Grace
 ## [Workshop Information] 
 
 ### *About the workshop*
-MMID Bioinformatics Workshop first started as MMID Coding Workshop in 2022 by Grace E. Seo and Jillian Rumore with number of graduate students. 
-- [MMID Bioinformatics Workshop mailman list](http://lists.umanitoba.ca/mailman/listinfo/mmid-coding-workshop)
+MMID Bioinformatics Workshop first started as MMID Coding Workshop in 2022 by Grace E. Seo and Jillian Rumore with number of graduate students. To learn more about how it got started, check our the link --> [About the workshop](https://mmid-bioinformatics-workshop.github.io/docs/About.md)
 
-<a href="https://mmid-bioinformatics-workshop.github.io/docs/About.md" title="About the Workshop">About the Workshop</a>
 
 &nbsp; 
 ### *2023 Volunteers and contact information*
-MMID Bioinformatics Workshop is operated by graduate students and volunteers. 
-<a href="https://mmid-bioinformatics-workshop.github.io/docs/2023-Volunteers.md" title="2023 Workshop Volunteers">2023 Workshop Volunteers</a>
+MMID Bioinformatics Workshop is operated by graduate students and volunteers. Check out each volunteer's research and their story --> [2023 Volunteers](https://mmid-bioinformatics-workshop.github.io/docs/2023-Volunteers.md)
 
 
 &nbsp; 
 ### *Old Resources - 2022 MMID Coding Workshop*
-Website: https://umanitobammidsc.ca/mmid-coding-workshop/
-GitHub: https://github.com/MMID-coding-workshop
-YouTube: https://www.youtube.com/channel/UClspbw7f-6Wk0BUiI6H05OQ
+- [MMID Coding Workshop Website](https://umanitobammidsc.ca/mmid-coding-workshop/)
+
+- [Old GitHub Repositories](https://github.com/MMID-coding-workshop)
+
+- [Old YouTube](https://www.youtube.com/channel/UClspbw7f-6Wk0BUiI6H05OQ)
