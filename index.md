@@ -1,7 +1,7 @@
 ---
-title: Jekyll Serif Theme
+title: MMID Bioinformatics Workshop
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Home page.
 intro_image: "images/logo-MMID_Bioinformatics_Workshop.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
@@ -28,7 +28,8 @@ Registration for each workshop will close on Tuesday at 11:59 PM before the sche
 &nbsp; 
 ### *Workshop Details*
 Click the link below for more details on our workshops!
-<a href="https://mmid-bioinformatics-workshop.github.io/docs/workshop-details.md" title="Workshop Details">Workshop Details</a>
+[Workshop Detailed Weekly Schedule](https://mmid-bioinformatics-workshop.github.io/docs/workshop-details.md)
+
 
 &nbsp; 
 ### *Workshop General Schedule*
@@ -43,14 +44,17 @@ Workshop schedule is as follows every Thursday:
 &nbsp; 
 ## [Workshop Resources]
 
-##### Website: https://mmid-bioinformatics-workshop.github.io
-##### GitHub: https://github.com/mmid-bioinformatics-workshop
-##### YouTube: https://www.youtube.com/@mmidbioinformaticsworkshop
+### *Useful links*
+- [MMID Bioinformatics Workshop Website](https://mmid-bioinformatics-workshop.github.io)
+- [GitHub Repositories](https://github.com/mmid-bioinformatics-workshop)
+- [YouTube](https://www.youtube.com/@mmidbioinformaticsworkshop)
+
 
 &nbsp; 
 ### *Emailing list*
 If you would like to be part of our emailing list, please register your email here:
-http://lists.umanitoba.ca/mailman/listinfo/mmid-coding-workshop
+- [MMID Bioinformatics Workshop mailman list](http://lists.umanitoba.ca/mailman/listinfo/mmid-coding-workshop)
+
 
 &nbsp; 
 ### *MMID Bioinformatics Workshop Slack Channel*
@@ -68,6 +72,8 @@ If you would like to be part of our slack channel, please send an email to Grace
 
 ### *About the workshop*
 MMID Bioinformatics Workshop first started as MMID Coding Workshop in 2022 by Grace E. Seo and Jillian Rumore with number of graduate students. 
+- [MMID Bioinformatics Workshop mailman list](http://lists.umanitoba.ca/mailman/listinfo/mmid-coding-workshop)
+
 <a href="https://mmid-bioinformatics-workshop.github.io/docs/About.md" title="About the Workshop">About the Workshop</a>
 
 &nbsp; 
