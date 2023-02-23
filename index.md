@@ -12,6 +12,7 @@ show_call_box: true
 
 # MMID Bioinformatics Workshop
 
+---
 ### Are you interested in a FREE bioinformatics training opportunity?
 ##### With a popular demand from last year's workshop (2022 MMID Coding Workshop), MMID Bioinformatics Workshop is back with a new format!
 ##### 2023 workshop will be offered in a hybrid format (in-person and online) as well as two sessions where attendees can bring their dataset to work on with others!
