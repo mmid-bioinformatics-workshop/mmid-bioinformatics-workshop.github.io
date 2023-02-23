@@ -1,7 +1,7 @@
 ---
-title: About MMID Bioinformatics Workshop
+title: About
 layout: About
-description: About page
+description: About
 bodyClass: page-About
 ---
 
@@ -47,12 +47,10 @@ With the successful turnout and high demand, this workshop series was reformatte
 3. From Zoom only workshop, now we offer an in-person Networking Session and workshops with the financial support from the Medical Microbiology and Infectious Diseases Student Council at the University of Manitoba.  
 
 
-[Back to home page](https://mmid-bioinformatics-workshop.github.io)
+[Back to home page](/index.md)
 
 
 
-
-
-
-
-
+&nbsp; 
+&nbsp; 
+© MMID Bioinformatics Workshop 2023

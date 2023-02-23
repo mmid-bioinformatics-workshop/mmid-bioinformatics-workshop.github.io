@@ -62,4 +62,10 @@ Public Health Agency of Canada
 
 &nbsp; 
 
-[Back to home page](https://mmid-bioinformatics-workshop.github.io)
+[Back to home page](/index.md)
+
+
+
+&nbsp; 
+&nbsp; 
+© MMID Bioinformatics Workshop 2023

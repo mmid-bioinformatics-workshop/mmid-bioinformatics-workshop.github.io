@@ -29,7 +29,7 @@ Click --> [Eventbrite Registration link](https://www.eventbrite.com/e/2023-mmid-
 &nbsp; 
 ### *Workshop Details*
 Click the link below for more details on our workshops!
-[Workshop Detailed Weekly Schedule](https://mmid-bioinformatics-workshop.github.io/docs/2023-workshop-details.md)
+[Workshop Detailed Weekly Schedule](/docs/2023-workshop-details.md)
 
 
 &nbsp; 
@@ -72,13 +72,12 @@ If you would like to be part of our slack channel, please send an email to Grace
 ## [Workshop Information] 
 
 ### *About the workshop*
-MMID Bioinformatics Workshop first started as MMID Coding Workshop in 2022 by Grace E. Seo and Jillian Rumore with number of graduate students. To learn more about how it got started, check our the link --> [About the workshop](https://mmid-bioinformatics-workshop.github.io/docs/About.md)
+MMID Bioinformatics Workshop first started as MMID Coding Workshop in 2022 by Grace E. Seo and Jillian Rumore with number of graduate students. To learn more about how it got started, check our the link --> [About the workshop](/docs/About.md)
 
 
 &nbsp; 
 ### *2023 Volunteers and contact information*
-MMID Bioinformatics Workshop is operated by graduate students and volunteers. Check out each volunteer's research and their story --> [2023 Volunteers](https://mmid-bioinformatics-workshop.github.io/docs/2023-Volunteers.md)
-
+MMID Bioinformatics Workshop is operated by graduate students and volunteers. Check out each volunteer's research and their story --> [2023 Volunteers](/docs/2023-Volunteers.md)
 
 &nbsp; 
 ### *Old Resources - 2022 MMID Coding Workshop*

@@ -8,6 +8,11 @@ bodyClass: page-2023-workshop-details
 ![logo-MMID_Bioinformatics_Workshop](../images/logo-MMID_Bioinformatics_Workshop.svg)
 
 
+![2023_MMID_Bfx_Workshop_schedule.png](../images/2023_MMID_Bfx_Workshop_schedule.png)
+
+
+---
+
 # 2023 Workshop details
 
 ### Workshop #1) March 2, 2023
@@ -149,8 +154,7 @@ bodyClass: page-2023-workshop-details
 
 ---
 
-[Back to home page](https://mmid-bioinformatics-workshop.github.io)
-
+[Back to home page](/index.md)
 
 &nbsp; 
 &nbsp; 
