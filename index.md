@@ -87,3 +87,8 @@ MMID Bioinformatics Workshop is operated by graduate students and volunteers. Ch
 - [Old YouTube](https://www.youtube.com/channel/UClspbw7f-6Wk0BUiI6H05OQ)
 
 
+
+
+&nbsp; 
+&nbsp; 
+© MMID Bioinformatics Workshop 2023
