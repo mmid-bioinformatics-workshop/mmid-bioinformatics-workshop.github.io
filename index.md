@@ -20,9 +20,10 @@ Are you interested in a FREE bioinformatics training opportunity?
 &nbsp; 
 
 
-### Registration link
+### Workshop registration
 Registration for each workshop will close on Tuesday at 11:59 PM before the scheduled workshop on Thursday 9:15 AM.
 
+Click --> [Eventbrite Registration link](https://www.eventbrite.com/e/2023-mmid-bioinformatics-workshop-tickets-556600877207?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb)
 
 
 &nbsp; 
@@ -46,9 +47,7 @@ Workshop schedule is as follows every Thursday:
 
 ### *Useful links*
 - [MMID Bioinformatics Workshop Website](https://mmid-bioinformatics-workshop.github.io)
-
 - [GitHub Repositories](https://github.com/mmid-bioinformatics-workshop)
-
 - [YouTube](https://www.youtube.com/@mmidbioinformaticsworkshop)
 
 
@@ -84,7 +83,7 @@ MMID Bioinformatics Workshop is operated by graduate students and volunteers. Ch
 &nbsp; 
 ### *Old Resources - 2022 MMID Coding Workshop*
 - [MMID Coding Workshop Website](https://umanitobammidsc.ca/mmid-coding-workshop/)
-
 - [Old GitHub Repositories](https://github.com/MMID-coding-workshop)
-
 - [Old YouTube](https://www.youtube.com/channel/UClspbw7f-6Wk0BUiI6H05OQ)
+
+
