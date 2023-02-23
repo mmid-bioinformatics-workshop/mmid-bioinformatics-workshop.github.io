@@ -53,16 +53,21 @@ Volunteer Date: March 9 and March 30, 2023
 Technician
 Public Health Agency of Canada
 
+### Feryal Ladha (Volunteer - In-person sessions)
+Volunteer Date: March 2, 9, 23, 30, April 6, 13, 20, and 27, 2023
+Genetics Honours Co-op student
+Faculty of Science, University of Manitoba
+Enteroviruses and Enteric Virsues Laboratory, Viral Diseases Division, Public Health Agency of Canada
+
 ### MacKenzie Wilke (Volunteer - Zoom moderator)
 Volunteer Date: March 30 and April 20, 2023
 Computational Biologist
 Public Health Agency of Canada
 
 
-
 &nbsp; 
 
-[Back to home page](https://mmid-bioinformatics-workshop.github.io/)
+[Back to home page](../index.md)
 
 
 
