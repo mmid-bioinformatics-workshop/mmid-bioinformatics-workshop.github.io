@@ -47,7 +47,7 @@ With the successful turnout and high demand, this workshop series was reformatte
 3. From Zoom only workshop, now we offer an in-person Networking Session and workshops with the financial support from the Medical Microbiology and Infectious Diseases Student Council at the University of Manitoba.  
 
 
-[Back to home page](/index.md)
+[Back to home page](http://mmid-bioinformatics-workshop.github.io/)
 
 
 

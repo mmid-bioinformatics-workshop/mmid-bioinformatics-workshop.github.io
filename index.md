@@ -22,7 +22,7 @@ show_call_box: true
 ### Workshop registration
 Registration for each workshop will close on Tuesday at 11:59 PM before the scheduled workshop on Thursday 9:15 AM.
 
-Click --> [Eventbrite Registration link](https://www.eventbrite.com/e/2023-mmid-bioinformatics-workshop-tickets-556600877207?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb)
+[Eventbrite Registration link](https://www.eventbrite.com/e/2023-mmid-bioinformatics-workshop-tickets-556600877207?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb)
 
 
 &nbsp; 
