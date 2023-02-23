@@ -29,7 +29,7 @@ Click --> [Eventbrite Registration link](https://www.eventbrite.com/e/2023-mmid-
 &nbsp; 
 ### *Workshop Details*
 Click the link below for more details on our workshops!
-[Workshop Detailed Weekly Schedule](https://mmid-bioinformatics-workshop.github.io/docs/workshop-details.md)
+[Workshop Detailed Weekly Schedule](https://mmid-bioinformatics-workshop.github.io/docs/2023-workshop-details.md)
 
 
 &nbsp; 
