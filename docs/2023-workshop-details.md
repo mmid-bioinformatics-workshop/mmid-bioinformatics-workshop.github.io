@@ -154,7 +154,8 @@ bodyClass: page-2023-workshop-details
 
 ---
 
-[Back to home page](http://mmid-bioinformatics-workshop.github.io/)
+[Back to home page](https://mmid-bioinformatics-workshop.github.io/)
+
 
 &nbsp; 
 &nbsp; 

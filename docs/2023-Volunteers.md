@@ -62,7 +62,7 @@ Public Health Agency of Canada
 
 &nbsp; 
 
-[Back to home page](/index.md)
+[Back to home page](https://mmid-bioinformatics-workshop.github.io/)
 
 
 
