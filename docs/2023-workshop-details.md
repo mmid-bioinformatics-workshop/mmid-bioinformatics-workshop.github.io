@@ -78,6 +78,8 @@ bodyClass: page-2023-workshop-details
 - install conda program (i.e., fastp and/or checkM)
 - assess publically available dataset for quality using the installed tool
 
+This workshop will provide demonstrations and exercises for performing basic bioinformatics analysis of bacterial genomic data as it pertains to quality control and data preprocessing, which are critical to obtaining high-quality data for downstream data analysis.  Specifically, we will assess general data quality using FastQC, filter low quality reads using fastp and remove host sequence content using a combination of Bowtie 2 and samtools.  We will also explore the use of checkM to assess the completeness and contamination of bacterial genome assemblies.
+
 ---
 
 
