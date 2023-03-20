@@ -42,9 +42,12 @@ Grace is a 3rd-year master's student supervised by Drs. Tim Booth and Natalie Kn
 ---
 
 ### Jill Rumore (Co-Coordinator / Instructor)
-**Biologist / Ph.D. candidate**
+**Biologist / Ph.D. candidate** \
+
 *Surveillance, Outbreak Detection and Response, Division of Enterics, Public Health Agency of Canada* \
+
 *Medical Microbiology and Infectious Diseases, Rady Faculty of Health Sciences, University of Manitoba* \
+
 *Email: jillian.rumore@phac-aspc.gc.ca*
 &nbsp;
 ##### Background:
@@ -56,8 +59,10 @@ Jill has been a Biologist with the Public Health Agency of Canada since 2014 and
 
 <img src="../images/Rose_Chan.jpg" alt="alt text" width="250" height="200">
 
-**Master's Student**
+**Master's Student** \
+
 *Public Health Agency of Canada* \
+
 *Medical Microbiology and Infectious Diseases, Rady Faculty of Health Sciences, University of Manitoba*
 &nbsp; 
 ##### Background:
@@ -69,22 +74,29 @@ Rose is in her 3rd year Master's program. Rose's research interest are viruses, 
 
 ### Taylor Davedow (Instructor)
 **Ph.D. Student** \
+
 *Public Health Agency of Canada* \
+
 *Medical Microbiology and Infectious Diseases, Rady Faculty of Health Sciences, University of Manitoba*
 
 ---
 
 ### Emma Rempel (Volunteer - In-person sessions)
 **Technician** \
+
 *Public Health Agency of Canada* \
+
 *Volunteer Date: March 9 and March 30, 2023*
 
 ---
 
 ### Feryal Ladha (Volunteer - In-person sessions)
-**Genetics Honours Co-op student**
+**Genetics Honours Co-op student** \
+
 *Faculty of Science, University of Manitoba* \
+
 *Enteroviruses and Enteric Virsues Laboratory, Viral Diseases Division, Public Health Agency of Canada* \
+
 *Volunteer Date: March 2 - April 27, 2023*
 
 ---
@@ -94,8 +106,11 @@ Rose is in her 3rd year Master's program. Rose's research interest are viruses, 
 <img src="../images/MacKenzie_Wilke.png" alt="alt text" width="200" height="200">
 
 **Computational Biologist** \
+
 *Public Health Agency of Canada* \
+
 *Antimicrobial Resistance and Nosocomial Infections Division, Public Health Agency of Canada* \
+
 *Volunteer Date: March 30 and April 20, 2023*
 &nbsp; 
 ##### Background
@@ -105,7 +120,9 @@ MacKenzie is a Computational Biologist in the Antimicrobial Resistance and Nosoc
 
 ### Darian Hole (Volunteer - In-person sessions)
 **Computational Biologist** \
+
 *Bioinformatics  and Enteric Virsues Laboratory, Science Technology Cores and Services Division, Public Health Agency of Canada* \
+
 *Volunteer Date: March 23, 30, April 6, 13, 20, and 27, 2023* \
 &nbsp; 
 ##### Background
