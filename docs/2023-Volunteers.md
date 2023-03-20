@@ -28,8 +28,11 @@ Darian Hole
 <img src="../images/GraceSeo_headshot.jpg" alt="alt text" width="200" height="200">
 
 **Biologist / Master's student** \
+
 *Enteroviruses and Enteric Viruses Laboratory, Viral Diseases Division, Public Health Agency of Canada* \
+
 *Microbiology and Infectious Diseases, Rady Faculty of Health Sciences University of Manitoba* \
+
 *Email: mmid.bioinformatics.workshop@gmail.com | grace.seo@phac-aspc.gc.ca*
 &nbsp; 
 ##### Background
