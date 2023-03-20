@@ -7,8 +7,7 @@ bodyClass: page-2023-volunteers
 
 ![logo-MMID_Bioinformatics_Workshop](../images/logo-MMID_Bioinformatics_Workshop.svg)
 
-[Home](https://mmid-bioinformatics-workshop.github.io/) &nbsp; &nbsp; [About](/docs/About.md) &nbsp; &nbsp; [Volunteers](/docs/2023-Volunteers.md) &nbsp; &nbsp; [Schedule](/docs/2023-workshop-details.md) &nbsp; &nbsp; [Registration](https://www.eventbrite.com/e/2023-mmid-bioinformatics-workshop-tickets-556600877207?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb) &nbsp; &nbsp; [GitHub](https://github.com/mmid-bioinformatics-workshop?tab=repositories) &nbsp; &nbsp; [YouTube](https://www.youtube.com/@mmidbioinformaticsworkshop) &nbsp; &nbsp; [Email](https://lists.umanitoba.ca/mailman3/lists/mmid-coding-workshop.lists.umanitoba.ca/)  
-
+[Home](https://mmid-bioinformatics-workshop.github.io/) &nbsp; &nbsp; [About](../docs/About.md) &nbsp; &nbsp; [Volunteers](../docs/2023-Volunteers.md) &nbsp; &nbsp; [Schedule](../docs/2023-workshop-details.md) &nbsp; &nbsp; [Registration](https://www.eventbrite.com/e/2023-mmid-bioinformatics-workshop-tickets-556600877207?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb) &nbsp; &nbsp; [GitHub](https://github.com/mmid-bioinformatics-workshop?tab=repositories) &nbsp; &nbsp; [YouTube](https://www.youtube.com/@mmidbioinformaticsworkshop) &nbsp; &nbsp; [Email](https://lists.umanitoba.ca/mailman3/lists/mmid-coding-workshop.lists.umanitoba.ca/)  
 
 ## 2023 Volunteers
 Grace E. Seo 
