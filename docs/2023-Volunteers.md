@@ -39,13 +39,10 @@ Grace is a 3rd-year master's student supervised by Drs. Tim Booth and Natalie Kn
 ---
 
 ### Jill Rumore (Co-Coordinator / Instructor)
-**Biologist / Ph.D. candidate** \
-
-*Surveillance, Outbreak Detection and Response, Division of Enterics, Public Health Agency of Canada* \
-
-*Medical Microbiology and Infectious Diseases, Rady Faculty of Health Sciences, University of Manitoba* \
-
-*Email: jillian.rumore@phac-aspc.gc.ca*
+**Biologist / Ph.D. candidate**  
+*Surveillance, Outbreak Detection and Response, Division of Enterics, Public Health Agency of Canada*  
+*Medical Microbiology and Infectious Diseases, Rady Faculty of Health Sciences, University of Manitoba*  
+*Email: jillian.rumore@phac-aspc.gc.ca*  
 &nbsp;
 ##### Background:
 Jill has been a Biologist with the Public Health Agency of Canada since 2014 and is in her 4th year of Ph.D. studies at the University of Manitoba in the Department of Medical Microbiology and Infectious Diseases. She is supervised by Drs. Natalie Knox and Celine Nadon and her research project is focused on developing an end-to-end metagenomics-based pipeline for rapid detection of bacterial foodborne pathogens in foods and clinical specimens. She routinely works in conda to conduct her research and has considerable experience with computer coding languages BASH and R.
@@ -56,11 +53,9 @@ Jill has been a Biologist with the Public Health Agency of Canada since 2014 and
 
 <img src="../images/Rose_Chan.jpg" alt="alt text" width="250" height="200">
 
-**Master's Student** \
-
-*Public Health Agency of Canada* \
-
-*Medical Microbiology and Infectious Diseases, Rady Faculty of Health Sciences, University of Manitoba*
+**Master's Student**  
+*Public Health Agency of Canada*  
+*Medical Microbiology and Infectious Diseases, Rady Faculty of Health Sciences, University of Manitoba*  
 &nbsp; 
 ##### Background:
 Rose is in her 3rd year Master's program. Rose's research interest are viruses, viral-host interaction, and antiviral strategies. Her current thesis project is about developing aptamer, a nucleic acid-based small molecule, for COVID-19 detection and treatment. She is now working under the supervision of Dr. Darwyn Kobasa at the National Microbiology Laboratory. Outside of the lab, she likes to run tabletop games, play badminton, do cooking and listening to music.
@@ -70,31 +65,24 @@ Rose is in her 3rd year Master's program. Rose's research interest are viruses, 
 ## 2023 MMID Bioinformatics Workshop Volunteers
 
 ### Taylor Davedow (Instructor)
-**Ph.D. Student** \
-
-*Public Health Agency of Canada* \
-
-*Medical Microbiology and Infectious Diseases, Rady Faculty of Health Sciences, University of Manitoba*
+**Ph.D. Student**  
+*Public Health Agency of Canada*  
+*Medical Microbiology and Infectious Diseases, Rady Faculty of Health Sciences, University of Manitoba*  
 
 ---
 
 ### Emma Rempel (Volunteer - In-person sessions)
-**Technician** \
-
-*Public Health Agency of Canada* \
-
-*Volunteer Date: March 9 and March 30, 2023*
+**Technician**  
+*Public Health Agency of Canada*  
+*Volunteer Date: March 9 and March 30, 2023*  
 
 ---
 
 ### Feryal Ladha (Volunteer - In-person sessions)
-**Genetics Honours Co-op student** \
-
-*Faculty of Science, University of Manitoba* \
-
-*Enteroviruses and Enteric Virsues Laboratory, Viral Diseases Division, Public Health Agency of Canada* \
-
-*Volunteer Date: March 2 - April 27, 2023*
+**Genetics Honours Co-op student**  
+*Faculty of Science, University of Manitoba*  
+*Enteroviruses and Enteric Virsues Laboratory, Viral Diseases Division, Public Health Agency of Canada*  
+*Volunteer Date: March 2 - April 27, 2023*  
 
 ---
 
@@ -102,13 +90,10 @@ Rose is in her 3rd year Master's program. Rose's research interest are viruses, 
 
 <img src="../images/MacKenzie_Wilke.png" alt="alt text" width="200" height="200">
 
-**Computational Biologist** \
-
-*Public Health Agency of Canada* \
-
-*Antimicrobial Resistance and Nosocomial Infections Division, Public Health Agency of Canada* \
-
-*Volunteer Date: March 30 and April 20, 2023*
+**Computational Biologist**  
+*Public Health Agency of Canada*  
+*Antimicrobial Resistance and Nosocomial Infections Division, Public Health Agency of Canada*  
+*Volunteer Date: March 30 and April 20, 2023*  
 &nbsp; 
 ##### Background
 MacKenzie is a Computational Biologist in the Antimicrobial Resistance and Nosocomial Infections Division at the National Microbiology Laboratory working on antimicrobial resistance prediction. She recently graduated with a MSc in computational biology from the University of Manitoba and was an instructor for the MMID bioinformatics workshop in 2022. In her free time, she likes to bake, go to concerts and learn more about bioinformatics!
@@ -116,11 +101,9 @@ MacKenzie is a Computational Biologist in the Antimicrobial Resistance and Nosoc
 ---
 
 ### Darian Hole (Volunteer - In-person sessions)
-**Computational Biologist** \
-
-*Bioinformatics  and Enteric Virsues Laboratory, Science Technology Cores and Services Division, Public Health Agency of Canada* \
-
-*Volunteer Date: March 23, 30, April 6, 13, 20, and 27, 2023* \
+**Computational Biologist**  
+*Bioinformatics  and Enteric Virsues Laboratory, Science Technology Cores and Services Division, Public Health Agency of Canada*  
+*Volunteer Date: March 23, 30, April 6, 13, 20, and 27, 2023*  
 &nbsp; 
 ##### Background
 Darian is a computational biologist with the Bioinformatics Core at the National Microbiology Laboratory focusing on genome assembly and automation. Darian is proficient in BASH and python. His work involves writing pipelines with nextflow for routine data analyses.
