@@ -75,7 +75,7 @@ bodyClass: page-2023-workshop-details
 
 **Workshop Information**
 - workflow from qc to read classification
-- overview of commonly used tools (i.e., fastqc, fastp, bowtie2, checkM, Centrifuge, Kraken2, KrakenUniq)
+- overview of commonly used tools (i.e., fastqc, fastp, bowtie2, checkM)
 - install conda program (i.e., fastp and/or checkM)
 - assess publically available dataset for quality using the installed tool
 
